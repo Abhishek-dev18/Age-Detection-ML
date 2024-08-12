@@ -19,4 +19,3 @@ Data Quality: A diverse dataset with balanced age groups and various facial expr
 Age Variation: Facial features change significantly with age, making it challenging to capture all variations.
 Privacy Concerns: Handling facial images requires careful consideration of privacy regulations and ethical implications.
 
-This is a private copy
